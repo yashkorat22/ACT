@@ -1,0 +1,103 @@
+<en-US>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-US>
+
+<en-GB>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-GB>
+
+<en-AU>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-AU>
+
+<en-CA>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-CA>
+
+<en-IN>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-IN>
+
+<en-SG>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-SG>
+
+<en-ZA>
+Improved: Member can view own subscriptions and bookings
+Improved: Member can get location for event and start navigation (3rd party)
+Improved: Trainer can set location by map integration
+Fixed: Profile picture change
+Fixed: More multi lingual translated text
+</en-ZA>
+
+<de-DE>
+Verbessert: Mitglied kann eigene Abonnements und Buchungen einsehen
+Verbessert: Mitglied kann Standort für Event abrufen und Navigation starten (3rd Party)
+Verbessert: Trainer kann Standort durch Kartenintegration festlegen
+Behoben: Profilbildänderung
+Behoben: Mehr mehrsprachiger übersetzter Text
+</de-DE>
+
+<fr-FR>
+Amélioré : le membre peut afficher ses propres abonnements et réservations
+Amélioré : le membre peut obtenir l'emplacement de l'événement et démarrer la navigation (3e partie)
+Amélioré : le formateur peut définir l'emplacement grâce à l'intégration de la carte
+Corrigé : changement d'image de profil
+Corrigé : Plus de texte traduit en plusieurs langues
+</fr-FR>
+
+<fr-CA>
+Amélioré : le membre peut afficher ses propres abonnements et réservations
+Amélioré : le membre peut obtenir l'emplacement de l'événement et démarrer la navigation (3e partie)
+Amélioré : le formateur peut définir l'emplacement grâce à l'intégration de la carte
+Corrigé : changement d'image de profil
+Corrigé : Plus de texte traduit en plusieurs langues
+</fr-CA>
+
+<it-IT>
+Migliorato: il membro può visualizzare i propri abbonamenti e prenotazioni
+Migliorato: il membro può ottenere la posizione per l'evento e avviare la navigazione (terze parti)
+Migliorato: il trainer può impostare la posizione tramite l'integrazione della mappa
+Risolto: modifica dell'immagine del profilo
+Risolto: più testo tradotto multilingue
+</it-IT>
+
+<ru-RU>
+Улучшено: участник может просматривать собственные подписки и бронирования.
+Улучшено: участник может получить местоположение для события и начать навигацию (сторонняя).
+Улучшено: тренер может устанавливать местоположение с помощью интеграции карты.
+Исправлено: изменение изображения профиля.
+Исправлено: больше многоязычного переведенного текста.
+</ru-RU>
+
+<uk>
+Покращено: Учасник може переглядати власні підписки та бронювання
+Покращено: учасник може отримати місцезнаходження для події та почати навігацію (третя сторона)
+Покращено: тренер може встановлювати розташування за допомогою інтеграції карти
+Виправлено: зміна зображення профілю
+Виправлено: більше багатомовного перекладеного тексту
+</uk>

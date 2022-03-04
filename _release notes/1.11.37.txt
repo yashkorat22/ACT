@@ -1,0 +1,51 @@
+<de-DE>
+Behoben: Mitglied kann sich wieder von einem Anlass abmelden.
+</de-DE>
+
+<en-AU>
+Fixed: Member can unregister from an event again.
+</en-AU>
+
+<en-CA>
+Fixed: Member can unregister from an event again.
+</en-CA>
+
+<en-GB>
+Fixed: Member can unregister from an event again.
+</en-GB>
+
+<en-IN>
+Fixed: Member can unregister from an event again.
+</en-IN>
+
+<en-SG>
+Fixed: Member can unregister from an event again.
+</en-SG>
+
+<en-US>
+Fixed: Member can unregister from an event again.
+</en-US>
+
+<en-ZA>
+Fixed: Member can unregister from an event again.
+</en-ZA>
+
+<fr-CA>
+Fixed: Member can unregister from an event again.
+</fr-CA>
+
+<fr-FR>
+Fixed: Member can unregister from an event again.
+</fr-FR>
+
+<it-IT>
+Fixed: Member can unregister from an event again.
+</it-IT>
+
+<ru-RU>
+Fixed: Member can unregister from an event again.
+</ru-RU>
+
+<uk>
+Fixed: Member can unregister from an event again.
+</uk>

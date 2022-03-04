@@ -1,0 +1,104 @@
+<en-US>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-US>
+
+<en-GB>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-GB>
+
+<en-AU>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-AU>
+
+<en-CA>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-CA>
+
+<en-IN>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-IN>
+
+<en-SG>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-SG>
+
+<en-ZA>
+Imp: Automatic assignment can be activated in "Classes".
+Imp: In "Classes" members can be excluded from automatic assignment.
+Fix: The "Invoicing" status was not updated in the administration area.
+Fix: No new location could be created in the calendar entries area.
+Fix: The flag "public" was not updated in the group area.
+</en-ZA>
+
+<de-DE>
+Imp: In "Gruppen" kann das automatische Zuweisen aktiviert werden.
+Imp: In "Gruppen" Mitglieder können von der automatischen Zuweisung ausgeschlossen werden.
+Fix: Im Bereich der Administration wurde der Status "In Rechnung stellen" nicht aktualisiert.
+Fix: Im Bereich der Kalendereinträge konnte keine neue Lokation erstellt werden.
+Fix: Im Bereich der Gruppen wurde das Flag "öffentlich" nicht aktualisiert.
+</de-DE>
+
+<fr-FR>
+Imp : L'attribution automatique peut être activée dans "Groupes".
+Imp : Dans "Groupes", les membres peuvent être exclus de l'attribution automatique.
+Correctif : Le statut « Facturation » n'était pas mis à jour dans la zone d'administration.
+Correction : aucun nouvel emplacement n'a pu être créé dans la zone des entrées de calendrier.
+Correction : le drapeau "public" n'était pas mis à jour dans la zone de groupe.
+</fr-FR>
+
+<fr-CA>
+Imp : L'attribution automatique peut être activée dans "Groupes".
+Imp : Dans "Groupes", les membres peuvent être exclus de l'attribution automatique.
+Correctif : Le statut « Facturation » n'était pas mis à jour dans la zone d'administration.
+Correction : aucun nouvel emplacement n'a pu être créé dans la zone des entrées de calendrier.
+Correction : le drapeau "public" n'était pas mis à jour dans la zone de groupe.
+</fr-CA>
+
+<it-IT>
+Imp: L'assegnazione automatica può essere attivata in "Gruppi".
+Imp: In "Gruppi" i membri possono essere esclusi dall'assegnazione automatica.
+Fix: Lo stato "Fatturazione" non è stato aggiornato nell'area di amministrazione.
+Correzione: non è stato possibile creare una nuova posizione nell'area delle voci del calendario.
+Fix: Il flag "pubblico" non è stato aggiornato nell'area del gruppo.
+</it-IT>
+
+<ru-RU>
+Imp: Автоматическое назначение можно активировать в «Группах».
+Imp: В «Группах» участники могут быть исключены из автоматического назначения.
+Исправлено: статус «Выставление счетов» не обновлялся в области администрирования.
+Исправление: не удалось создать новое местоположение в области записей календаря.
+Исправление: не обновлялся флаг «общедоступный» в области группы.
+</ru-RU>
+
+<uk>
+Imp: Автоматичне призначення можна активувати в "Групах".
+Imp: У "Групах" учасників можна виключити з автоматичного призначення.
+ВИПРАВЛЕННЯ: Статус "Рахунок -фактура" не оновлювався в області адміністрування.
+ВИПРАВЛЕННЯ: Не вдалося створити нове місце розташування в області записів календаря.
+Виправлено: прапор "публічний" не оновлювався в області групи.
+</uk>
+
